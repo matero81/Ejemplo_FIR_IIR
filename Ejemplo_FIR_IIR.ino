@@ -120,3 +120,6 @@ void loop() {
 }
   delay(10);//delay de 10 ms para que haga alrededor de 100 muestras por segundo
 }
+
+
+//Lo que voy a hacer aqui es un cambio
